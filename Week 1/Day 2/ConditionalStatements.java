@@ -16,7 +16,7 @@ public class ConditionalStatements {
         System.out.println("Enter Your Marks : ");
         marks = sc.nextInt();
         System.out.println("Enter Attendance Percentage : ");
-        attendance = sc.nextInt();`
+        attendance = sc.nextInt();
     }
 
     public void checkResult(){
