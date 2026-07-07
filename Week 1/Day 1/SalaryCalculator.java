@@ -41,8 +41,6 @@ public class SalaryCalculator {
         System.out.println("Tax Percentage : " + taxPercentage);
         System.out.println("Tax Amount : " + taxAmount);
         System.out.println("Final Salary : " + finalSalary);
-
-
     }
 
 
