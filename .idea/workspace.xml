@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 1/Day 3/ConsoleBasedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Day 5/ArraysBasics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/AritmeticOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/InputFromConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/RelationalandLogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/TypeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/ConditionalStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/ElectricityBillCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/SwitchStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/ConsoleBasedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/DiamondPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/InvertedTrianglePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/TrianglePattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PMYLS/Desktop/java-internship-roadmap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hello.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PMYLS/Desktop/java-internship-roadmap",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="java-internship-roadmap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 
 public class ConsoleBasedCalculator {
 
@@ -9,7 +9,7 @@ public class ConsoleBasedCalculator {
 
     Scanner sc = new Scanner(System.in);
 
-
+    
     public void showMenu() {
         System.out.println("\n========= Calculator =========");
         System.out.println("1. Addition");
