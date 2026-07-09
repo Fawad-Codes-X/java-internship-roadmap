@@ -11,6 +11,8 @@ public class ArrayOperations
         System.out.println("Total Sum : " + sum);
     }
 
+
+
     public static void main(String[] args){
 
         ArrayOperations obj = new ArrayOperations();
