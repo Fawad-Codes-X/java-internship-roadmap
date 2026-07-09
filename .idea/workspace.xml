@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 1/Day 5/ArraysBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Day 5/ArrayOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/AritmeticOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/InputFromConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/RelationalandLogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/SalaryCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 1/TypeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/ConditionalStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/ElectricityBillCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/SwitchStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/ConsoleBasedCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/DiamondPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/InvertedTrianglePattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/TrianglePattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
