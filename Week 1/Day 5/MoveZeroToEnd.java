@@ -2,20 +2,20 @@ import java.util.Arrays;
 
 public class MoveZeroToEnd {
 
-    public static void moveZeros(int[] arr) {
+    public static void moveZeros(int[] num) {
 
         int position = 0;
 
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < num.length; i++) {
 
-            if (arr[i] != 0) {
+            if (num[i] != 0) {
 
-                // Swap only when needed
+
                 if (i != position) {
-                    int temp = arr[i];
-                    arr[i] = arr[position];
-                    arr[position] = temp;
+                    int temp = num[i];
+                    num[i] = num[position];
+                    num[position] = temp;
                 }
 
                 position++;
