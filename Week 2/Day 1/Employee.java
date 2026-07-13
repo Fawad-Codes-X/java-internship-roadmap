@@ -126,7 +126,6 @@ public class Employee {
         System.out.println("Employee Salary     : " + getSalary());
     }
 
-    // Main Method
     public static void main(String[] args) {
 
         System.out.println("Employee 1");
