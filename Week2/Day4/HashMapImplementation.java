@@ -1,3 +1,5 @@
+package Week2.Day4;
+
 import java.util.HashMap;
 
 public class HashMapImplementation {
@@ -9,6 +11,7 @@ public class HashMapImplementation {
         HashMap<String, Integer> country = new HashMap<>();
         country.put("Pakistan", 130);
         country.put("India", 90);
+
         country.put("China", 100);
         System.out.println(country);
 

@@ -1,5 +1,5 @@
-﻿import java.util.Scanner;
-
+import java.util.Scanner;
+//package Week1.Day4;
 public class ConsoleBasedCalculator {
 
     double firstNumber;
@@ -9,7 +9,7 @@ public class ConsoleBasedCalculator {
 
     Scanner sc = new Scanner(System.in);
 
-    
+
     public void showMenu() {
         System.out.println("\n========= Calculator =========");
         System.out.println("1. Addition");

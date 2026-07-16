@@ -1,3 +1,5 @@
+package Week1.Day4;
+
 public class TrianglePattern {
 
     public static void main(String[] args){

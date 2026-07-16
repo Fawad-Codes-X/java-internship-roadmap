@@ -1,15 +1,18 @@
+package Week2.Day4;
+
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
 
 public class ParagraphWordCounter {
-
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input Your Paragraph : ");
         String paragraph = scanner.nextLine();
 
         paragraph = paragraph.toLowerCase();
+
+
 
         paragraph = paragraph.replaceAll("[^a-zA-Z0-9 ]", "");
 

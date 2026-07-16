@@ -7,6 +7,8 @@ public class ClassesBasic {
         String department;
         double salary;
 
+
+
         public Employee(int empID, String n, String dep, double sal) {
             employeeID = empID;
             name = n;

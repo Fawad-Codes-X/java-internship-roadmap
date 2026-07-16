@@ -1,3 +1,5 @@
+package Week2.Day4;
+
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
@@ -7,6 +9,7 @@ public class InventorySystem {
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
+
 
         HashMap<String, Integer> inventory = new HashMap<>();
 
