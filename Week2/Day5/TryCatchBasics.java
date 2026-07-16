@@ -12,9 +12,13 @@ public class TryCatchBasics {
         System.out.println("Enter Second Number : ");
         int secondNumber = sc.nextInt();
 
-        int result = firstNumber / secondNumber;
+        try {
+            int result = firstNumber / secondNumber;
+            System.out.println("Result is : " + result);
+        }catch(ArithmeticException e) {
+            System.out.println("Cannot divide by zero");
+        }
 
-        System.out.println("Result is : " + result);
         sc.close();
     }
 
