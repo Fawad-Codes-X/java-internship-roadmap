@@ -14,6 +14,8 @@ public class ParagraphWordCounter {
 
 
 
+
+
         paragraph = paragraph.replaceAll("[^a-zA-Z0-9 ]", "");
 
         String[] words = paragraph.split("\\s+");

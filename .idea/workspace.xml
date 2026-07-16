@@ -6,39 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/AritmeticOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/InputFromConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/RelationalandLogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/SalaryCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 2/TypeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/ConditionalStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/ElectricityBillCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 3/SwitchStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/ConsoleBasedCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/DiamondPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/InvertedTrianglePattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 4/TrianglePattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/ArrayAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/ArrayOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/ArraysBasics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/CharacterCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/MaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/MinimumElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/MoveZeroToEnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/Day 5/UserNameNormalization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 1/ClassesBasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 1/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/BasicAbstractClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/BasicInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/Inheritance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 2/Polymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 3/ArrayListBasics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 3/LinkedListBaics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/HashMapImplementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/InventorySystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Day 4/ParagraphWordCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Day4/HashMapImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/Day4/HashMapImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Day4/ParagraphWordCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/Day4/ParagraphWordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/Day4/ParagraphWordCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +39,7 @@
     &quot;Application.HashMapImplementation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
     &quot;Application.InventorySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrianglePattern.executor&quot;: &quot;Run&quot;,
     &quot;Application.Week2.Day4.HashMapImplementation.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -93,16 +64,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TrianglePattern">
+  <component name="RunManager" selected="Application.TryCatchBasics">
     <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondPattern" />
-      <module name="java-internship-roadmap" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapImplementation" />
       <module name="java-internship-roadmap" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryCatchBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Day5.TryCatchBasics" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.Day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week2.Day4.HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Day4.HashMapImplementation" />
       <module name="java-internship-roadmap" />
@@ -149,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchBasics" />
+        <item itemvalue="Application.Week2.Day4.HashMapImplementation" />
         <item itemvalue="Application.TrianglePattern" />
         <item itemvalue="Application.DiamondPattern" />
         <item itemvalue="Application.InventorySystem" />
-        <item itemvalue="Application.Week2.Day4.HashMapImplementation" />
-        <item itemvalue="Application.HashMapImplementation" />
       </list>
     </recent_temporary>
   </component>
