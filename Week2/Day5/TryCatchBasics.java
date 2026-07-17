@@ -1,5 +1,6 @@
 package Week2.Day5;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class TryCatchBasics {
@@ -17,6 +18,8 @@ public class TryCatchBasics {
             System.out.println("Result is : " + result);
         }catch(ArithmeticException e) {
             System.out.println("Cannot divide by zero");
+        }catch (InputMismatchException e) {
+            System.out.println("Only Integers are accepted");
         }
 
         sc.close();
