@@ -11,7 +11,11 @@ public class NullPointerBasic {
 
         public static void main(String[] args){
             Student student = null;
-            System.out.println(student.name);
+            if(student != null){
+                System.out.println(student.name);
+            }else{
+                System.out.println("Student Object Not Created");
+            }
         }
 
     }
