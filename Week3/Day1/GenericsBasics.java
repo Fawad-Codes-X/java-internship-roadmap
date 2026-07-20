@@ -14,8 +14,8 @@ public class GenericsBasics {
     }
 
     public static void main(String[] args){
-        Box<String> b = new Box<>();
-        b.setItem("Hello");
+        Box<Integer> b = new Box<>();
+        b.setItem(12);
         System.out.println(b.getItem());
     }
 }
