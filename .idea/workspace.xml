@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week3/Day1/GenericsBasics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/Day5/TryCatchBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/Day5/TryCatchBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +70,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InventorySystem">
-    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiamondPattern" />
+  <component name="RunManager" selected="Application.GenericsBasics">
+    <configuration name="GenericsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day1.GenericsBasics" />
       <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsBasics" />
         <item itemvalue="Application.InventorySystem" />
         <item itemvalue="Application.TryCatchBasics" />
         <item itemvalue="Application.Week2.Day4.HashMapImplementation" />
         <item itemvalue="Application.TrianglePattern" />
-        <item itemvalue="Application.DiamondPattern" />
       </list>
     </recent_temporary>
   </component>
