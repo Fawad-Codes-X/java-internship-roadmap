@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day1/TypeErasure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Day1/GenericsBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day1/GenericsBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Day1/TypeErasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day1/TypeErasure.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
     "Application.InventorySystem.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.TryCatchBasics.executor": "Run",
+    "Application.TypeErasure.executor": "Run",
     "Application.Week2.Day4.HashMapImplementation.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
