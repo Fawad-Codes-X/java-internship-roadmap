@@ -43,6 +43,13 @@ public class MiniTask {
         return Optional.empty();
     }
 
+    public static Optional<User> findUser(String username){
+        if("fawad".equalsIgnoreCase(username)){
+            return Optional.of(new User("Fawad"));
+        }
+        return Optional.empty();
+    }
+
     public static void main(String[] args){
 
     }
