@@ -51,6 +51,13 @@ public class MiniTask {
     }
 
     public static void main(String[] args){
+        Optional<Book> book = findBookByIsbn("123");
+
+        book.ifPresent(b-> System.out.println("Book Found" + b.getClass()));
+
+        String bookMessage = findBookByIsbn("999").map(Book::getTitle).orElse("Book Not Found");
+
+        System.out.println(bookMessage);
 
     }
 
