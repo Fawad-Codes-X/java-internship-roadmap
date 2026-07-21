@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Day2/MiniTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day2/MiniTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
     "Application.HashMapImplementation.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.InventorySystem.executor": "Run",
+    "Application.MiniTask.executor": "Run",
     "Application.NullPointerBasic$Student.executor": "Run",
     "Application.OptionalClasses.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
@@ -73,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OptionalClasses">
+  <component name="RunManager" selected="Application.MiniTask">
     <configuration name="GenericsBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day1.GenericsBasics" />
       <module name="java-internship-roadmap" />
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InventorySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day4.InventorySystem" />
+    <configuration name="MiniTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day2.MiniTask" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week2.Day4.*" />
+          <option name="PATTERN" value="Week3.Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiniTask" />
         <item itemvalue="Application.OptionalClasses" />
         <item itemvalue="Application.NullPointerBasic$Student" />
         <item itemvalue="Application.TypeErasure" />
         <item itemvalue="Application.GenericsBasics" />
-        <item itemvalue="Application.InventorySystem" />
       </list>
     </recent_temporary>
   </component>

@@ -59,6 +59,14 @@ public class MiniTask {
 
         System.out.println(bookMessage);
 
+        System.out.println();
+
+        String userMessage = findUser("Fawad").map(user -> "Welcome" + user.getUsername()).orElse("User Not Found");
+
+        System.out.println(userMessage);
+
+        String anotherUser = findUser("Ali").map(user -> "Welcome" + user.getUsername()).orElse("User Not Found");
+
     }
 
 }
