@@ -30,6 +30,10 @@ public class BehaviourAsData {
         //Behaviour as reference of Method
         List<Integer> odds = filterNumbers(dataList, BehaviourAsData::isOdd);
 
+        System.out.println("Evens " + evens);
+        System.out.println("Greater Than Five " + greaterthanFive);
+        System.out.println("Odds : " + odds);
+
     }
 
     public static Boolean isOdd(int number){

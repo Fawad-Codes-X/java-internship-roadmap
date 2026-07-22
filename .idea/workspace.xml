@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Day3/BehaviourAsData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day3/BehaviourAsData.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InventorySystem">
+  <component name="RunManager" selected="Application.BehaviourAsData">
+    <configuration name="BehaviourAsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day3.BehaviourAsData" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InventorySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Day4.InventorySystem" />
       <module name="java-internship-roadmap" />
@@ -128,26 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeErasure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day1.TypeErasure" />
-      <module name="java-internship-roadmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.Day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BehaviourAsData" />
         <item itemvalue="Application.InventorySystem" />
         <item itemvalue="Application.OptionalClasses" />
         <item itemvalue="Application.MiniTask" />
         <item itemvalue="Application.NullPointerBasic$Student" />
-        <item itemvalue="Application.TypeErasure" />
       </list>
     </recent_temporary>
   </component>
