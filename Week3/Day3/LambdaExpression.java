@@ -7,6 +7,11 @@ public class LambdaExpression {
         void sayHello();
     }
 
+    @FunctionalInterface
+    interface Square{
+        int findSquare(int number);
+    }
+
     public static void main(String[] args){
 
         Greeting greeting = () -> {
@@ -14,6 +19,11 @@ public class LambdaExpression {
         };
 
         greeting.sayHello();
+
+
+        Square square = number -> number * number;
+
+        System.out.println(square.findSquare(5));
 
     }
 
