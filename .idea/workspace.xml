@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="" />
+    <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week3/Day3/FunctionalInterfaceExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,46 +37,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DiamondPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericsBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InventorySystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MiniTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullPointerBasic$Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptionalClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrianglePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeErasure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week2.Day4.HashMapImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PMYLS/Desktop/java-internship-roadmap&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BehaviourAsData.executor": "Run",
+    "Application.DiamondPattern.executor": "Run",
+    "Application.GenericsBasics.executor": "Run",
+    "Application.HashMapImplementation.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.InventorySystem.executor": "Run",
+    "Application.MiniTask.executor": "Run",
+    "Application.NullPointerBasic$Student.executor": "Run",
+    "Application.OptionalClasses.executor": "Run",
+    "Application.TrianglePattern.executor": "Run",
+    "Application.TryCatchBasics.executor": "Run",
+    "Application.TypeErasure.executor": "Run",
+    "Application.Week2.Day4.HashMapImplementation.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PMYLS/Desktop/java-internship-roadmap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.BehaviourAsData">
+}]]></component>
+  <component name="RunManager" selected="Application.FunctionalInterfaceExample">
     <configuration name="BehaviourAsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day3.BehaviourAsData" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day3.FunctionalInterfaceExample" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
@@ -112,19 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullPointerBasic$Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day2.NullPointerBasic$Student" />
-      <module name="java-internship-roadmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OptionalClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day2.OptionalClasses" />
       <module name="java-internship-roadmap" />
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionalInterfaceExample" />
         <item itemvalue="Application.BehaviourAsData" />
         <item itemvalue="Application.InventorySystem" />
         <item itemvalue="Application.OptionalClasses" />
         <item itemvalue="Application.MiniTask" />
-        <item itemvalue="Application.NullPointerBasic$Student" />
       </list>
     </recent_temporary>
   </component>
