@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day3/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day3/LambdaExpression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
   "keyToString": {
     "Application.BehaviourAsData.executor": "Run",
     "Application.DiamondPattern.executor": "Run",
+    "Application.FunctionalInterfaceExample.executor": "Run",
     "Application.GenericsBasics.executor": "Run",
     "Application.HashMapImplementation.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -75,7 +76,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionalInterfaceExample">
+  <component name="RunManager" selected="Application.LambdaExpression">
     <configuration name="BehaviourAsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day3.BehaviourAsData" />
       <module name="java-internship-roadmap" />
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day2.MiniTask" />
+    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day3.LambdaExpression" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.Day2.*" />
+          <option name="PATTERN" value="Week3.Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExpression" />
         <item itemvalue="Application.FunctionalInterfaceExample" />
         <item itemvalue="Application.BehaviourAsData" />
         <item itemvalue="Application.InventorySystem" />
         <item itemvalue="Application.OptionalClasses" />
-        <item itemvalue="Application.MiniTask" />
       </list>
     </recent_temporary>
   </component>
