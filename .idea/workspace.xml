@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day4/MapMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day4/SortMethodExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.Hello.executor": "Run",
     "Application.InventorySystem.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
+    "Application.MapMethodExample.executor": "Run",
     "Application.MiniTask.executor": "Run",
     "Application.NullPointerBasic$Student.executor": "Run",
     "Application.OptionalClasses.executor": "Run",
@@ -85,7 +86,7 @@
       <command value="LambdaExpression" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapMethodExample">
+  <component name="RunManager" selected="Application.SortMethodExample">
     <configuration name="CalculatorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day3.CalculatorClass" />
       <module name="java-internship-roadmap" />
@@ -105,19 +106,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week3.Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day3.FunctionalInterfaceExample" />
-      <module name="java-internship-roadmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day4.SortMethodExample" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortMethodExample" />
         <item itemvalue="Application.MapMethodExample" />
         <item itemvalue="Application.CalculatorClass" />
         <item itemvalue="Application.FilterExample" />
         <item itemvalue="Application.LambdaExpression" />
-        <item itemvalue="Application.FunctionalInterfaceExample" />
       </list>
     </recent_temporary>
   </component>
