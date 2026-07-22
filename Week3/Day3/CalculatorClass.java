@@ -11,6 +11,7 @@ public class CalculatorClass {
 
         CalculatorOperation add = (a,b) -> a + b;
 
+
         CalculatorOperation subtract = (a,b) -> a - b;
 
         CalculatorOperation multiply = (a, b) -> a * b;

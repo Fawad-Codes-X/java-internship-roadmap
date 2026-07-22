@@ -1,5 +1,7 @@
 package Week3.Day3;
 
+import java.util.function.Supplier;
+
 public class FunctionalInterfaceExample {
 
     @FunctionalInterface

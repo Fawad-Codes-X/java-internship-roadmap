@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day4/SortMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day3/PredicateExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Day3/CalculatorClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day3/CalculatorClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Day3/FunctionalInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day3/FunctionalInterfaceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
     "Application.MiniTask.executor": "Run",
     "Application.NullPointerBasic$Student.executor": "Run",
     "Application.OptionalClasses.executor": "Run",
+    "Application.SortMethodExample.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.TryCatchBasics.executor": "Run",
     "Application.TypeErasure.executor": "Run",
@@ -86,7 +89,7 @@
       <command value="LambdaExpression" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortMethodExample">
+  <component name="RunManager" selected="Application.PredicateExamples">
     <configuration name="CalculatorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day3.CalculatorClass" />
       <module name="java-internship-roadmap" />
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day3.LambdaExpression" />
+    <configuration name="MapMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day4.MapMethodExample" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.Day3.*" />
+          <option name="PATTERN" value="Week3.Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day4.MapMethodExample" />
+    <configuration name="PredicateExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day3.PredicateExamples" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.Day4.*" />
+          <option name="PATTERN" value="Week3.Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateExamples" />
         <item itemvalue="Application.SortMethodExample" />
         <item itemvalue="Application.MapMethodExample" />
         <item itemvalue="Application.CalculatorClass" />
         <item itemvalue="Application.FilterExample" />
-        <item itemvalue="Application.LambdaExpression" />
       </list>
     </recent_temporary>
   </component>
