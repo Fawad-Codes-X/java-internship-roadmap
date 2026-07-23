@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day4/CollectToMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day4/GroupingByExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.BehaviourAsData.executor": "Run",
     "Application.CalculatorClass.executor": "Run",
     "Application.CollectToList.executor": "Run",
+    "Application.CollectToMapExample.executor": "Run",
     "Application.DiamondPattern.executor": "Run",
     "Application.DistinctMethodExample.executor": "Run",
     "Application.FilterExample.executor": "Run",
@@ -90,7 +91,7 @@
       <command value="LambdaExpression" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectToMapExample">
+  <component name="RunManager" selected="Application.GroupingByExample">
     <configuration name="CollectToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day4.CollectToList" />
       <module name="java-internship-roadmap" />
@@ -130,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GroupingByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day4.GroupingByExample" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PredicateExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day3.PredicateExamples" />
       <module name="java-internship-roadmap" />
@@ -143,26 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day4.SortMethodExample" />
-      <module name="java-internship-roadmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupingByExample" />
         <item itemvalue="Application.CollectToMapExample" />
         <item itemvalue="Application.CollectToList" />
         <item itemvalue="Application.DistinctMethodExample" />
         <item itemvalue="Application.PredicateExamples" />
-        <item itemvalue="Application.SortMethodExample" />
       </list>
     </recent_temporary>
   </component>
