@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day4/CollectToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day4/CollectToMapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <command value="LambdaExpression" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectToList">
+  <component name="RunManager" selected="Application.CollectToMapExample">
     <configuration name="CollectToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day4.CollectToList" />
       <module name="java-internship-roadmap" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day4.DistinctMethodExample" />
+    <configuration name="CollectToMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day4.CollectToMapExample" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day4.MapMethodExample" />
+    <configuration name="DistinctMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day4.DistinctMethodExample" />
       <module name="java-internship-roadmap" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectToMapExample" />
         <item itemvalue="Application.CollectToList" />
         <item itemvalue="Application.DistinctMethodExample" />
         <item itemvalue="Application.PredicateExamples" />
         <item itemvalue="Application.SortMethodExample" />
-        <item itemvalue="Application.MapMethodExample" />
       </list>
     </recent_temporary>
   </component>
