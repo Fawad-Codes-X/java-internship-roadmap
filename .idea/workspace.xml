@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2cf292-d582-495f-a588-ac197c784798" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/Day4/GroupingByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day5/BufferedReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Day5/students.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BehaviourAsData.executor": "Run",
+    "Application.BufferedReaderExample.executor": "Run",
     "Application.CalculatorClass.executor": "Run",
     "Application.CollectToList.executor": "Run",
     "Application.CollectToMapExample.executor": "Run",
@@ -49,6 +51,7 @@
     "Application.FilterExample.executor": "Run",
     "Application.FunctionalInterfaceExample.executor": "Run",
     "Application.GenericsBasics.executor": "Run",
+    "Application.GroupingByExample.executor": "Run",
     "Application.HashMapImplementation.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.InventorySystem.executor": "Run",
@@ -91,7 +94,20 @@
       <command value="LambdaExpression" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupingByExample">
+  <component name="RunManager" selected="Application.BufferedReaderExample">
+    <configuration name="BufferedReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day5.BufferedReaderExample" />
+      <module name="java-internship-roadmap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day4.CollectToList" />
       <module name="java-internship-roadmap" />
@@ -144,26 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day3.PredicateExamples" />
-      <module name="java-internship-roadmap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week3.Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedReaderExample" />
         <item itemvalue="Application.GroupingByExample" />
         <item itemvalue="Application.CollectToMapExample" />
         <item itemvalue="Application.CollectToList" />
         <item itemvalue="Application.DistinctMethodExample" />
-        <item itemvalue="Application.PredicateExamples" />
       </list>
     </recent_temporary>
   </component>
